@@ -17,19 +17,14 @@ The system captures biopotentials across the scalp, isolates microvolt-level neu
 [![Watch the Video Demo](https://img.shields.io/badge/Watch-Video%20Demonstration-red?style=for-the-badge&logo=youtube)](https://youtube.com/shorts/YBrWAwv3kOM?feature=share
 )
 
-> *Click the banner above or watch the demo video below showcasing real-time Alpha/Beta wave transitions under varying cognitive load:*
-
-https://github.com/user-attachments/assets/your-video-demo-hash
-
 ---
 
 ### Hardware Schematics & Breadboard Implementation
 
 | Schematic Capture (Multisim/SPICE) | Physical Hardware Layout & Probing |
 | :---: | :---: |
-| ![Analog Front End Schematic](./hardware/schematics/afe_schematic.png) | ![Breadboard Prototype](./hardwareimages/20260124_120814.jpg) |
-| *Figure 1: 6-stage discrete AFE with decoupled split-rail power.* | *Figure 2: Physical hardware implementation and scope probing.* |
-
+| <img src="/hardwareschematics/Schematic.PNG" alt="Analog Front End Schematic" width="400"> | <img src="/hardwareimages/20260124_120814.jpg" alt="Breadboard Prototype" width="300"> |
+| *Figure 1: 6-stage AFE with split-rail power.* | *Figure 2: Physical hardware implementation and scope probing.* |
 ---
 
 ## 3. Analog Front-End (AFE) Engineering Deep-Dive
