@@ -27,7 +27,7 @@ https://github.com/user-attachments/assets/your-video-demo-hash
 
 | Schematic Capture (Multisim/SPICE) | Physical Hardware Layout & Probing |
 | :---: | :---: |
-| ![Analog Front End Schematic](./hardware/schematics/afe_schematic.png) | ![Breadboard Prototype](./hardware/images/afe_breadboard.jpg) |
+| ![Analog Front End Schematic](./hardware/schematics/afe_schematic.png) | ![Breadboard Prototype](./hardwareimages/20260124_120814.jpg) |
 | *Figure 1: 6-stage discrete AFE with decoupled split-rail power.* | *Figure 2: Physical hardware implementation and scope probing.* |
 
 ---
