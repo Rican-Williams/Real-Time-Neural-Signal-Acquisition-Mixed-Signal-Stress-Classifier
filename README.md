@@ -14,7 +14,8 @@ The system captures biopotentials across the scalp, isolates microvolt-level neu
 ## 2. Video Demonstration & Media Showcase
 
 ### Live Demo & Dynamic Waveform Capture
-[![Watch the Video Demo](https://img.shields.io/badge/Watch-Video%20Demonstration-red?style=for-the-badge&logo=youtube)]()
+[![Watch the Video Demo](https://img.shields.io/badge/Watch-Video%20Demonstration-red?style=for-the-badge&logo=youtube)](https://youtube.com/shorts/YBrWAwv3kOM?feature=share
+)
 
 > *Click the banner above or watch the demo video below showcasing real-time Alpha/Beta wave transitions under varying cognitive load:*
 
